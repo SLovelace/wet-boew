@@ -1,5 +1,5 @@
 @ECHO Off
-
+gdfhfgbhrdthbrs
 REM Check for JDK from http://techdem.centerkey.com/2009/05/javahome-command-script.html
 set KeyName=HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Development Kit
 set Cmd=reg query "%KeyName%" /s
